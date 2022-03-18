@@ -1,6 +1,6 @@
 # AWS_Lambda_ImageContainer
 In usual scenarios, the proposed system by a machine learning engineer/s must be economical, fast-deployed, mobile (able to run anywhere), and scalable. <br>
-Recently and after the release of AWS lambda based on container image, -to my mind- it is one of the most efficient ways to take your model to production.<br>
+Recently and after the release of AWS lambda based on a container image, -to my mind- it is one of the most efficient ways to take your model to production.<br>
 The idea behind AWS lambda is that you can upload and run your code without thinking about the server running it. <br>
 latterly, you can package and deploy your Lambda function as a container image of up to 10 GB in size. <br>
 This way, you benefit from operational simplicity, automatic scaling, high availability, cost-effectiveness, and native integrations with other services.<br>
